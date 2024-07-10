@@ -1,2 +1,4 @@
-This is public repository of a university project - a city simulator. 
-There is documentation added including more details(it's partly written in Polish).
+# MiniCity
+
+### This is a public repository of a university project - a city simulator. 
+### For more details check documentation (partly written in Polish).
