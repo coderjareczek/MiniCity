@@ -1,0 +1,5 @@
+﻿  main.cpp
+  population_determinant_tiers.h
+C:\Users\Jarek Makówka\Source\Repos\f5292847-gr24-repo\Projekt\MiniCity\MiniCity\population_determinant_tier_1.h(13,10): error C3861: 'min': identifier not found
+  (compiling source file 'population_determinant_tiers.h')
+  
